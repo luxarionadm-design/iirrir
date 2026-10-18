@@ -1,0 +1,6 @@
+{
+  "name": "SocialMath.js - Mathematical Engine for Social Media",
+  "description": "Three.js-inspired mathematical library and interactive visual laboratory for social network algorithms, vector engagement spaces, viral spheres, echo chambers, and attention decay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

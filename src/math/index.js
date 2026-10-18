@@ -1,0 +1,31 @@
+export { SocialMathUtils } from './SocialMathUtils.js';
+export { EngagementVector2 } from './EngagementVector2.js';
+export { EngagementVector3 } from './EngagementVector3.js';
+export { EngagementVector4 } from './EngagementVector4.js';
+export { SocialTransitionMatrix2 } from './SocialTransitionMatrix2.js';
+export { SocialAffinityMatrix3 } from './SocialAffinityMatrix3.js';
+export { GraphDiffusionMatrix4 } from './GraphDiffusionMatrix4.js';
+export { AudienceSegmentBox2 } from './AudienceSegmentBox2.js';
+export { FilterBubbleBox3 } from './FilterBubbleBox3.js';
+export { ViralCascadeSphere } from './ViralCascadeSphere.js';
+export { FeedAttentionFrustum } from './FeedAttentionFrustum.js';
+export { MultiFeedFrustumArray } from './MultiFeedFrustumArray.js';
+export { InformationBroadcastRay } from './InformationBroadcastRay.js';
+export { GrowthTrajectoryLine3 } from './GrowthTrajectoryLine3.js';
+export { AlgorithmicCutoffPlane } from './AlgorithmicCutoffPlane.js';
+export { SocialTriad } from './SocialTriad.js';
+export { SentimentEuler } from './SentimentEuler.js';
+export { InfluenceQuaternion } from './InfluenceQuaternion.js';
+export { CommunitySpherical } from './CommunitySpherical.js';
+export { FeedFlowCylindrical } from './FeedFlowCylindrical.js';
+export { EchoHarmonics3 } from './EchoHarmonics3.js';
+export { SentimentColor } from './SentimentColor.js';
+export { SentimentColorManagement } from './SentimentColorManagement.js';
+export { AttentionInterpolant } from './AttentionInterpolant.js';
+
+// Interpolants
+export { LinearDecayInterpolant } from './interpolants/LinearDecayInterpolant.js';
+export { ViralBurstInterpolant } from './interpolants/ViralBurstInterpolant.js';
+export { AudienceRetentionInterpolant } from './interpolants/AudienceRetentionInterpolant.js';
+export { BatchPostingInterpolant } from './interpolants/BatchPostingInterpolant.js';
+export { InfluenceLinearInterpolant } from './interpolants/InfluenceLinearInterpolant.js';
